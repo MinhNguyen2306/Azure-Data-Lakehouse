@@ -1,4 +1,4 @@
-#Azure Data Lakehouse — OTT Search Analytics Platform
+# Azure Data Lakehouse — OTT Search Analytics Platform
 
 > End-to-end data lakehouse on Azure analyzing user search behavior on a Vietnamese OTT/Internet-TV platform (FPT Play), featuring **incremental ingestion with Auto Loader**, **event-driven orchestration (file-arrival trigger)**, **ML-powered Vietnamese keyword normalization**, a **star-schema warehouse**, and a **full analytics & monitoring stack**.
 
